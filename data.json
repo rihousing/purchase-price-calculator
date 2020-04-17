@@ -1,0 +1,731 @@
+{
+    "towns": [
+        {
+            "town": "Barrington",
+            "taxRate": "0.0201",
+            "hazard": "106.08",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Bristol",
+            "taxRate": "0.01372",
+            "hazard": "115.84",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Burrillville",
+            "taxRate": "0.016",
+            "hazard": "106.76",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Central Falls",
+            "taxRate": "0.02476",
+            "hazard": "129.58",
+            "homestead": "0",
+            "homesteadFlat": "56.59916667"
+        },
+        {
+            "town": "Charlestown",
+            "taxRate": "0.00923",
+            "hazard": "133.79",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Coventry",
+            "taxRate": "0.02224",
+            "hazard": "102.22",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Cranston",
+            "taxRate": "0.02077",
+            "hazard": "107.45",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Cumberland",
+            "taxRate": "0.01588",
+            "hazard": "102.36",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "East Greenwich",
+            "taxRate": "0.02321",
+            "hazard": "137.90",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "East Providence",
+            "taxRate": "0.02002",
+            "hazard": "106.79",
+            "homestead": "0.13",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Exeter",
+            "taxRate": "0.01569",
+            "hazard": "98.87",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Foster",   
+            "taxRate": "0.02369",
+            "hazard": "110.82",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Glocester",
+            "taxRate": "0.02044",
+            "hazard": "114.55",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Hopkinton",
+            "taxRate": "0.02068",
+            "hazard": "98.23",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Jamestown",
+            "taxRate": "0.00805",
+            "hazard": "135.24",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Johnston",
+            "taxRate": "0.02289",
+            "hazard": "104.84",
+            "homestead": "0.2",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Lincoln",
+            "taxRate": "0.0198",
+            "hazard": "113.26",
+            "homestead": "0.35",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Little Compton",
+            "taxRate": "0.00593",
+            "hazard": "109.63",
+            "homestead": "0.35",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Middletown",
+            "taxRate": "0.01376",
+            "hazard": "126.46",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Narragansett",
+            "taxRate": "0.01023",
+            "hazard": "113.45",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "New Shoreham",
+            "taxRate": "0.00616",
+            "hazard": "171.06",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },  
+        {
+            "town": "Newport",
+            "taxRate": "0.01028",
+            "hazard": "140.81",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "North Kingstown",
+            "taxRate": "0.01709",
+            "hazard": "115.03",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "North Providence",
+            "taxRate": "0.02689",
+            "hazard": "107.26",
+            "homestead": "0.2",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "North Smithfield",
+            "taxRate": "0.01587",
+            "hazard": "106.86",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Pawtucket",
+            "taxRate": "0.02089",
+            "hazard": "107.99",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Portsmouth",
+            "taxRate": "0.0164",
+            "hazard": "130.26",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Providence",
+            "taxRate": "0.02456",
+            "hazard": "124.16",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Richmond",
+            "taxRate": "0.02188",
+            "hazard": "110.17",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Scituate",
+            "taxRate": "0.01789",
+            "hazard": "118.84",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Smithfield",
+            "taxRate": "0.01681",
+            "hazard": "100.97",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "South Kingstown",
+            "taxRate": "0.01445",
+            "hazard": "118.57",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Tiverton",
+            "taxRate": "0.01579",
+            "hazard": "116.83",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Warren",
+            "taxRate": "0.01911",
+            "hazard": "111.06",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Warwick",
+            "taxRate": "0.01873",
+            "hazard": "106.46",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "West Greenwich",
+            "taxRate": "0.02417",
+            "hazard": "113.30",
+            "homestead": "0.14",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "West Warwick",
+            "taxRate": "0.02257",
+            "hazard": "108.42",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Westerly",
+            "taxRate": "0.0112",
+            "hazard": "117.11",
+            "homestead": "0",
+            "homesteadFlat": "0"
+        },
+        {
+            "town": "Woonsocket",
+            "taxRate": "0.02408",
+            "hazard": "112.46",
+            "homestead": "0.25",
+            "homesteadFlat": "0"
+        }
+    ],
+    "incomeLimits": [
+        {
+            "towns": [
+                "New Shoreham"
+            ],
+            "percentage_60": [
+                {
+                    "houseHold": 1,
+                    "limit": 34850
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 39800
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 44800
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 49750
+                }
+            ],
+            "percentage_70": [
+                {
+                    "houseHold": 1,
+                    "limit": 40650
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 46450
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 52250
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 58050
+                }
+            ],
+            "percentage_80": [
+                {
+                    "houseHold": 1,
+                    "limit": 46450
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 53050
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 59700
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 66300
+                }
+            ],
+            "percentage_100": [
+                {
+                    "houseHold": 1,
+                    "limit": 58050
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 66300
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 74600
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 82900
+                }
+            ],
+            "percentage_115": [
+                {
+                    "houseHold": 1,
+                    "limit": 66750
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 76300
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 85800
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 95350
+                }
+            ],
+            "percentage_120": [
+                {
+                    "houseHold": 1,
+                    "limit": 69650
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 79600
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 89550
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 99500
+                }
+            ]
+        },
+        {
+            "towns": [
+                "Newport", "Portsmouth", "Middletown"
+            ],
+            "percentage_60": [
+                {
+                    "houseHold": 1,
+                    "limit": 40200
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 45900
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 51650
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 57400
+                }
+            ],
+            "percentage_70": [
+                {
+                    "houseHold": 1,
+                    "limit": 46900
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 53600
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 60300
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 67000
+                }
+            ],
+            "percentage_80": [
+                {
+                    "houseHold": 1,
+                    "limit": 52850
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 60400
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 67950
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 75500
+                }
+            ],
+            "percentage_100": [
+                {
+                    "houseHold": 1,
+                    "limit": 67000
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 76550
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 86150
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 95700
+                }
+            ],
+            "percentage_115": [
+                {
+                    "houseHold": 1,
+                    "limit": 77050
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 88050
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 99050
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 110050
+                }
+            ],
+            "percentage_120": [
+                {
+                    "houseHold": 1,
+                    "limit": 80400
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 91900
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 103350
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 114850
+                }
+            ]
+        },
+        {
+            "towns": [
+                "Hopkinton", "Westerly"
+            ],
+            "percentage_60": [
+                {
+                    "houseHold": 1,
+                    "limit": 34850
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 39800
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 44800
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 49750
+                }
+            ],
+            "percentage_70": [
+                {
+                    "houseHold": 1,
+                    "limit": 40650
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 46450
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 52250
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 58050
+                }
+            ],
+            "percentage_80": [
+                {
+                    "houseHold": 1,
+                    "limit": 46450
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 53050
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 59700
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 66300
+                }
+            ],
+            "percentage_100": [
+                {
+                    "houseHold": 1,
+                    "limit": 58050
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 66300
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 74600
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 82900
+                }
+            ],
+            "percentage_115": [
+                {
+                    "houseHold": 1,
+                    "limit": 66750
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 76300
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 85800
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 95350
+                }
+            ],
+            "percentage_120": [
+                {
+                    "houseHold": 1,
+                    "limit": 69650
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 79600
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 89550
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 99500
+                }
+            ]
+        },
+        {
+            "towns": [
+                "All"
+            ],
+            "percentage_60": [
+                {
+                    "houseHold": 1,
+                    "limit": 34400
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 39300
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 44250
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 49150
+                }
+            ],
+            "percentage_70": [
+                {
+                    "houseHold": 1,
+                    "limit": 40150
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 45900
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 51600
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 57350
+                }
+            ],
+            "percentage_80": [
+                {
+                    "houseHold": 1,
+                    "limit": 45850
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 52400
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 58950
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 65500
+                }
+            ],
+            "percentage_100": [
+                {
+                    "houseHold": 1,
+                    "limit": 57350
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 65500
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 73700
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 81900
+                }
+            ],
+            "percentage_115": [
+                {
+                    "houseHold": 1,
+                    "limit": 65950
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 73350
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 84800
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 94200
+                }
+            ],
+            "percentage_120": [
+                {
+                    "houseHold": 1,
+                    "limit": 68800
+                },
+                {
+                    "houseHold": 2,
+                    "limit": 78650
+                },
+                {
+                    "houseHold": 3,
+                    "limit": 88450
+                },
+                {
+                    "houseHold": 4,
+                    "limit": 98300
+                }
+            ]
+        }
+    ]
+}
