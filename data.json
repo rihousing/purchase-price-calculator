@@ -3,273 +3,273 @@
       {
           "town": "Barrington",
           "taxRate": "0.0201",
-          "hazard": "106.08",
+          "hazard": "110.22",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Bristol",
           "taxRate": "0.01372",
-          "hazard": "115.84",
+          "hazard": "123.32",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Burrillville",
           "taxRate": "0.016",
-          "hazard": "106.76",
+          "hazard": "115.52",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Central Falls",
           "taxRate": "0.02476",
-          "hazard": "129.58",
+          "hazard": "140.46",
           "homestead": "0",
-          "homesteadFlat": "56.59916667"
+          "homesteadFlat": "64.9325"
       },
       {
           "town": "Charlestown",
           "taxRate": "0.00923",
-          "hazard": "133.79",
+          "hazard": "141.03",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Coventry",
           "taxRate": "0.02224",
-          "hazard": "102.22",
+          "hazard": "109.23",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Cranston",
           "taxRate": "0.02077",
-          "hazard": "107.45",
+          "hazard": "115.77",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Cumberland",
           "taxRate": "0.01588",
-          "hazard": "102.36",
+          "hazard": "113.58",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "East Greenwich",
           "taxRate": "0.02321",
-          "hazard": "137.90",
+          "hazard": "142.33",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "East Providence",
           "taxRate": "0.02002",
-          "hazard": "106.79",
+          "hazard": "113.28",
           "homestead": "0.13",
           "homesteadFlat": "0"
       },
       {
           "town": "Exeter",
           "taxRate": "0.01569",
-          "hazard": "98.87",
+          "hazard": "103.61",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Foster",   
           "taxRate": "0.02369",
-          "hazard": "110.82",
+          "hazard": "119.57",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Glocester",
           "taxRate": "0.02044",
-          "hazard": "114.55",
+          "hazard": "120.50",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Hopkinton",
           "taxRate": "0.02068",
-          "hazard": "98.23",
+          "hazard": "106.19",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Jamestown",
           "taxRate": "0.00805",
-          "hazard": "135.24",
+          "hazard": "152.69",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Johnston",
           "taxRate": "0.02289",
-          "hazard": "104.84",
+          "hazard": "112.71",
           "homestead": "0.2",
           "homesteadFlat": "0"
       },
       {
           "town": "Lincoln",
           "taxRate": "0.0198",
-          "hazard": "113.26",
+          "hazard": "120.27",
           "homestead": "0.35",
           "homesteadFlat": "0"
       },
       {
           "town": "Little Compton",
           "taxRate": "0.00593",
-          "hazard": "109.63",
+          "hazard": "101.60",
           "homestead": "0.35",
           "homesteadFlat": "0"
       },
       {
           "town": "Middletown",
           "taxRate": "0.01376",
-          "hazard": "126.46",
+          "hazard": "131.10",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Narragansett",
           "taxRate": "0.01023",
-          "hazard": "113.45",
-          "homestead": "0",
+          "hazard": "120.24",
+          "homestead": "0.1",
           "homesteadFlat": "0"
       },
       {
           "town": "New Shoreham",
           "taxRate": "0.00616",
-          "hazard": "171.06",
+          "hazard": "162.04",
           "homestead": "0",
           "homesteadFlat": "0"
       },  
       {
           "town": "Newport",
           "taxRate": "0.01028",
-          "hazard": "140.81",
+          "hazard": "147.82",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "North Kingstown",
           "taxRate": "0.01709",
-          "hazard": "115.03",
+          "hazard": "122.06",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "North Providence",
           "taxRate": "0.02689",
-          "hazard": "107.26",
+          "hazard": "112.79",
           "homestead": "0.2",
           "homesteadFlat": "0"
       },
       {
           "town": "North Smithfield",
           "taxRate": "0.01587",
-          "hazard": "106.86",
+          "hazard": "113.19",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Pawtucket",
           "taxRate": "0.02089",
-          "hazard": "107.99",
+          "hazard": "114.97",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Portsmouth",
           "taxRate": "0.0164",
-          "hazard": "130.26",
+          "hazard": "134.62",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Providence",
           "taxRate": "0.02456",
-          "hazard": "124.16",
+          "hazard": "130.16",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Richmond",
           "taxRate": "0.02188",
-          "hazard": "110.17",
+          "hazard": "117.56",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Scituate",
           "taxRate": "0.01789",
-          "hazard": "118.84",
+          "hazard": "122.59",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Smithfield",
           "taxRate": "0.01681",
-          "hazard": "100.97",
+          "hazard": "108.76",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "South Kingstown",
           "taxRate": "0.01445",
-          "hazard": "118.57",
+          "hazard": "119.80",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Tiverton",
           "taxRate": "0.01579",
-          "hazard": "116.83",
+          "hazard": "123.00",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Warren",
           "taxRate": "0.01911",
-          "hazard": "111.06",
+          "hazard": "120.03",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Warwick",
           "taxRate": "0.01873",
-          "hazard": "106.46",
+          "hazard": "112.42",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "West Greenwich",
           "taxRate": "0.02417",
-          "hazard": "113.30",
-          "homestead": "0.14",
+          "hazard": "121.95",
+          "homestead": "0.29",
           "homesteadFlat": "0"
       },
       {
           "town": "West Warwick",
           "taxRate": "0.02257",
-          "hazard": "108.42",
+          "hazard": "116.82",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Westerly",
           "taxRate": "0.0112",
-          "hazard": "117.11",
+          "hazard": "122.76",
           "homestead": "0",
           "homesteadFlat": "0"
       },
       {
           "town": "Woonsocket",
           "taxRate": "0.02408",
-          "hazard": "112.46",
+          "hazard": "120.66",
           "homestead": "0.25",
           "homesteadFlat": "0"
       }
