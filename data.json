@@ -295,24 +295,10 @@
               {
                   "houseHold": 4,
                   "limit": 53650
-              }
-          ],
-          "percentage_70": [
-              {
-                  "houseHold": 1,
-                  "limit": 43800
               },
               {
-                  "houseHold": 2,
-                  "limit": 50100
-              },
-              {
-                  "houseHold": 3,
-                  "limit": 56350
-              },
-              {
-                  "houseHold": 4,
-                  "limit": 62600
+                  "houseHold": 5,
+                  "limit": 57950
               }
           ],
           "percentage_80": [
@@ -331,6 +317,10 @@
               {
                   "houseHold": 4,
                   "limit": 71500
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 77250
               }
           ],
           "percentage_100": [
@@ -349,6 +339,10 @@
               {
                   "houseHold": 4,
                   "limit": 91200
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 98500
               }
           ],
           "percentage_115": [
@@ -367,6 +361,10 @@
               {
                   "houseHold": 4,
                   "limit": 104900
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 113300
               }
           ],
           "percentage_120": [
@@ -385,6 +383,10 @@
               {
                   "houseHold": 4,
                   "limit": 109450
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 118200
               }
           ]
       },
@@ -408,24 +410,10 @@
               {
                   "houseHold": 4,
                   "limit": 60550
-              }
-          ],
-          "percentage_70": [
-              {
-                  "houseHold": 1,
-                  "limit": 49450
               },
               {
-                  "houseHold": 2,
-                  "limit": 56500
-              },
-              {
-                  "houseHold": 3,
-                  "limit": 63600
-              },
-              {
-                  "houseHold": 4,
-                  "limit": 70650
+                  "houseHold": 5,
+                  "limit": 65400
               }
           ],
           "percentage_80": [
@@ -444,6 +432,10 @@
               {
                   "houseHold": 4,
                   "limit": 78500
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 84800
               }
           ],
           "percentage_100": [
@@ -462,6 +454,10 @@
               {
                   "houseHold": 4,
                   "limit": 100900
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 108950
               }
           ],
           "percentage_115": [
@@ -480,6 +476,10 @@
               {
                   "houseHold": 4,
                   "limit": 116050
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 125350
               }
           ],
           "percentage_120": [
@@ -498,6 +498,10 @@
               {
                   "houseHold": 4,
                   "limit": 121100
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 130800
               }
           ]
       },
@@ -521,24 +525,10 @@
               {
                   "houseHold": 4,
                   "limit": 53650
-              }
-          ],
-          "percentage_70": [
-              {
-                  "houseHold": 1,
-                  "limit": 43800
               },
               {
-                  "houseHold": 2,
-                  "limit": 50100
-              },
-              {
-                  "houseHold": 3,
-                  "limit": 56350
-              },
-              {
-                  "houseHold": 4,
-                  "limit": 62600
+                  "houseHold": 5,
+                  "limit": 57950
               }
           ],
           "percentage_80": [
@@ -557,6 +547,10 @@
               {
                   "houseHold": 4,
                   "limit": 71500
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 77250
               }
           ],
           "percentage_100": [
@@ -575,6 +569,10 @@
               {
                   "houseHold": 4,
                   "limit": 91200
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 98500
               }
           ],
           "percentage_115": [
@@ -593,6 +591,10 @@
               {
                   "houseHold": 4,
                   "limit": 104900
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 113300
               }
           ],
           "percentage_120": [
@@ -611,6 +613,10 @@
               {
                   "houseHold": 4,
                   "limit": 109450
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 118200
               }
           ]
       },
@@ -634,24 +640,10 @@
               {
                   "houseHold": 4,
                   "limit": 52200
-              }
-          ],
-          "percentage_70": [
-              {
-                  "houseHold": 1,
-                  "limit": 42650
               },
               {
-                  "houseHold": 2,
-                  "limit": 48700
-              },
-              {
-                  "houseHold": 3,
-                  "limit": 54800
-              },
-              {
-                  "houseHold": 4,
-                  "limit": 60900
+                  "houseHold": 5,
+                  "limit": 56400
               }
           ],
           "percentage_80": [
@@ -670,6 +662,10 @@
               {
                   "houseHold": 4,
                   "limit": 69600
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 75200
               }
           ],
           "percentage_100": [
@@ -688,6 +684,10 @@
               {
                   "houseHold": 4,
                   "limit": 87000
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 93950
               }
           ],
           "percentage_115": [
@@ -706,6 +706,10 @@
               {
                   "houseHold": 4,
                   "limit": 100050
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 108050
               }
           ],
           "percentage_120": [
@@ -724,6 +728,10 @@
               {
                   "houseHold": 4,
                   "limit": 104400
+              },
+              {
+                  "houseHold": 5,
+                  "limit": 112750
               }
           ]
       }
