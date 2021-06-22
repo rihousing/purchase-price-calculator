@@ -26,7 +26,7 @@
           "taxRate": "0.02369",
           "hazard": "140.46",
           "homestead": "0.232588",
-          "homesteadFlat": "64.9325"
+          "homesteadFlat": "0"
       },
       {
           "town": "Charlestown",
@@ -279,114 +279,114 @@
           "towns": [
               "New Shoreham"
           ],
-          "percentage_60": [
+           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 37550
+                  "limit": 39420
               },
               {
                   "houseHold": 2,
-                  "limit": 42900
+                  "limit": 45060
               },
               {
                   "houseHold": 3,
-                  "limit": 48300
+                  "limit": 50700
               },
-              {
-                  "houseHold": 4,
-                  "limit": 53650
-              },
+            {
+              "houseHold": 4,
+              "limit": 56280
+            },
               {
                   "houseHold": 5,
-                  "limit": 57950
+                  "limit": 60840
               }
           ],
-          "percentage_80": [
+           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 50050
+                  "limit": 52550
               },
               {
                   "houseHold": 2,
-                  "limit": 57200
+                  "limit": 60050
               },
               {
                   "houseHold": 3,
-                  "limit": 64350
+                  "limit": 67550
               },
-              {
-                  "houseHold": 4,
-                  "limit": 71500
-              },
+            {
+              "houseHold": 4,
+              "limit": 75050
+            },
               {
                   "houseHold": 5,
-                  "limit": 77250
+                  "limit": 81100
               }
           ],
           "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 63850
+                  "limit": 66150   
               },
               {
                   "houseHold": 2,
-                  "limit": 72950
+                  "limit": 75600
               },
               {
                   "houseHold": 3,
-                  "limit": 82100
+                  "limit": 85050
               },
-              {
-                  "houseHold": 4,
-                  "limit": 91200
-              },
+            {
+              "houseHold": 4,
+              "limit": 94500
+            },
               {
                   "houseHold": 5,
-                  "limit": 98500
+                  "limit": 102050
               }
           ],
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 73450
+                  "limit": 76050 
               },
               {
                   "houseHold": 2,
-                  "limit": 83900
+                  "limit": 86950 
               },
               {
                   "houseHold": 3,
-                  "limit": 94400
+                  "limit": 97800 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 104900
-              },
+            {
+              "houseHold": 4,
+              "limit": 108700
+            },
               {
                   "houseHold": 5,
-                  "limit": 113300
+                  "limit": 117350
               }
           ],
           "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 76600
+                  "limit": 79400 
               },
               {
                   "houseHold": 2,
-                  "limit": 87550
+                  "limit": 90700 
               },
               {
                   "houseHold": 3,
-                  "limit": 98500
+                  "limit": 102050 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 109450
-              },
+            {
+              "houseHold": 4,
+              "limit": 133400
+            },
               {
                   "houseHold": 5,
-                  "limit": 118200
+                  "limit": 122450
               }
           ]
       },
@@ -397,111 +397,111 @@
           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 42400
+                  "limit": 44460 
               },
               {
                   "houseHold": 2,
-                  "limit": 48450
+                  "limit": 50820 
               },
               {
                   "houseHold": 3,
-                  "limit": 54500
+                  "limit": 57180 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 60550
-              },
+            {
+              "houseHold": 4,
+              "limit": 63480
+            },
               {
                   "houseHold": 5,
-                  "limit": 65400
+                  "limit": 68580
               }
           ],
           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 54950
+                  "limit": 55950 
               },
               {
                   "houseHold": 2,
-                  "limit": 62800
+                  "limit": 63950 
               },
               {
                   "houseHold": 3,
-                  "limit": 70650
+                  "limit": 71950 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 78500
-              },
+            {
+              "houseHold": 4,
+              "limit": 79900
+            },
               {
                   "houseHold": 5,
-                  "limit": 84800
+                  "limit": 89300
               }
           ],
           "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 70650
+                  "limit": 74050 
               },
               {
                   "houseHold": 2,
-                  "limit": 80700
+                  "limit": 84650 
               },
               {
                   "houseHold": 3,
-                  "limit": 90800
+                  "limit": 95200 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 100900
-              },
+            {
+              "houseHold": 4,
+              "limit": 105800
+            },
               {
                   "houseHold": 5,
-                  "limit": 108950
+                  "limit": 114264
               }
           ],
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 81250
+                  "limit": 85150 
               },
               {
                   "houseHold": 2,
-                  "limit": 92850
+                  "limit": 97350 
               },
               {
                   "houseHold": 3,
-                  "limit": 104450
+                  "limit": 109500 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 116050
-              },
+            {
+              "houseHold": 4,
+              "limit": 121650
+            },
               {
                   "houseHold": 5,
-                  "limit": 125350
+                  "limit": 131400
               }
           ],
-          "percentage_120": [
+           "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 84750
+                  "limit": 88850 
               },
               {
                   "houseHold": 2,
-                  "limit": 96900
+                  "limit": 101600 
               },
               {
                   "houseHold": 3,
-                  "limit": 109000
+                  "limit": 114250 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 121100
-              },
+            {
+              "houseHold": 4,
+              "limit": 126950
+            },
               {
                   "houseHold": 5,
-                  "limit": 130800
+                  "limit": 137100
               }
           ]
       },
@@ -509,114 +509,114 @@
           "towns": [
               "Hopkinton", "Westerly"
           ],
-          "percentage_60": [
+            "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 37550
+                  "limit": 39420
               },
               {
                   "houseHold": 2,
-                  "limit": 42900
+                  "limit": 45060
               },
               {
                   "houseHold": 3,
-                  "limit": 48300
+                  "limit": 50700
               },
               {
-                  "houseHold": 4,
-                  "limit": 53650
+                "houseHold": 4,
+                "limit": 56280
               },
               {
                   "houseHold": 5,
-                  "limit": 57950
+                  "limit":60840
               }
           ],
           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 50050
+                  "limit": 52550
               },
               {
                   "houseHold": 2,
-                  "limit": 57200
+                  "limit": 60050
               },
               {
                   "houseHold": 3,
-                  "limit": 64350
+                  "limit": 67550
               },
-              {
-                  "houseHold": 4,
-                  "limit": 71500
-              },
+            {
+              "houseHold": 4,
+              "limit": 75050
+            },
               {
                   "houseHold": 5,
-                  "limit": 77250
+                  "limit": 81100
               }
           ],
           "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 63850
+                  "limit": 66150   
               },
               {
                   "houseHold": 2,
-                  "limit": 72950
+                  "limit": 75600
               },
               {
                   "houseHold": 3,
-                  "limit": 82100
+                  "limit": 85050
               },
-              {
-                  "houseHold": 4,
-                  "limit": 91200
-              },
+            {
+              "houseHold": 4,
+              "limit": 94500
+            },
               {
                   "houseHold": 5,
-                  "limit": 98500
+                  "limit": 102050
               }
           ],
-          "percentage_115": [
+           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 73450
+                  "limit": 76050 
               },
               {
                   "houseHold": 2,
-                  "limit": 83900
+                  "limit": 86950 
               },
               {
                   "houseHold": 3,
-                  "limit": 94400
+                  "limit": 97800 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 104900
-              },
+            {
+              "houseHold": 4,
+              "limit": 108700
+            },
               {
                   "houseHold": 5,
-                  "limit": 113300
+                  "limit": 117350
               }
           ],
-          "percentage_120": [
+           "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 76600
+                  "limit": 79400 
               },
               {
                   "houseHold": 2,
-                  "limit": 87550
+                  "limit": 90700 
               },
               {
                   "houseHold": 3,
-                  "limit": 98500
+                  "limit": 102050 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 109450
-              },
+            {
+              "houseHold": 4,
+              "limit": 133400
+            },
               {
                   "houseHold": 5,
-                  "limit": 118200
+                  "limit": 112100
               }
           ]
       },
@@ -627,111 +627,111 @@
           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 36550
+                  "limit": 36360 
               },
               {
                   "houseHold": 2,
-                  "limit": 41750
+                  "limit": 41520 
               },
               {
                   "houseHold": 3,
-                  "limit": 47000
+                  "limit": 46740 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 52200
-              },
+            {
+              "houseHold": 4,
+              "limit": 51900
+            },
               {
                   "houseHold": 5,
-                  "limit": 56400
+                  "limit": 56100
               }
           ],
           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 48750
+                  "limit": 48450 
               },
               {
                   "houseHold": 2,
-                  "limit": 55700
+                  "limit": 55400 
               },
               {
                   "houseHold": 3,
-                  "limit": 62650
+                  "limit": 62300 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 69600
-              },
+            {
+              "houseHold": 4,
+              "limit": 69200
+            },
               {
                   "houseHold": 5,
-                  "limit": 75200
+                  "limit": 74750
               }
           ],
-          "percentage_100": [
+         "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 60900
+                  "limit": 60550 
               },
               {
                   "houseHold": 2,
-                  "limit": 69600
+                  "limit": 69200 
               },
               {
                   "houseHold": 3,
-                  "limit": 78300
+                  "limit": 77850 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 87000
-              },
+          {
+            "houseHold": 4,
+            "limit": 86500
+          },
               {
                   "houseHold": 5,
-                  "limit": 93950
+                  "limit": 93400
               }
           ],
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 70050
+                  "limit": 69650 
               },
               {
                   "houseHold": 2,
-                  "limit": 80050
+                  "limit": 79600 
               },
               {
                   "houseHold": 3,
-                  "limit": 90050
+                  "limit": 89550 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 100050
-              },
+            {
+              "houseHold": 4,
+              "limit": 99500
+            },
               {
                   "houseHold": 5,
-                  "limit": 108050
+                  "limit": 107500
               }
           ],
-          "percentage_120": [
+         "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 73100
+                  "limit": 72650 
               },
               {
                   "houseHold": 2,
-                  "limit": 83500
+                  "limit": 83050 
               },
               {
                   "houseHold": 3,
-                  "limit": 93950
+                  "limit": 93400 
               },
-              {
-                  "houseHold": 4,
-                  "limit": 104400
-              },
+          {
+            "houseHold": 4,
+            "limit": 103800
+          },
               {
                   "houseHold": 5,
-                  "limit": 112750
+                  "limit": 112100
               }
           ]
       }
