@@ -282,63 +282,63 @@
            "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 39420
+                  "limit": 44100
               },
               {
                   "houseHold": 2,
-                  "limit": 45060
+                  "limit": 50400
               },
               {
                   "houseHold": 3,
-                  "limit": 50700
+                  "limit": 56700
               },
             {
               "houseHold": 4,
-              "limit": 56280
+              "limit": 62940
             },
               {
                   "houseHold": 5,
-                  "limit": 60840
+                  "limit": 67980
               }
           ],
            "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 52550
+                  "limit": 58750
               },
               {
                   "houseHold": 2,
-                  "limit": 60050
+                  "limit": 67150
               },
               {
                   "houseHold": 3,
-                  "limit": 67550
+                  "limit": 75550
               },
             {
               "houseHold": 4,
-              "limit": 75050
+              "limit": 83900
             },
               {
                   "houseHold": 5,
-                  "limit": 81100
+                  "limit": 90650
               }
           ],
           "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 66150   
+                  "limit": 75600   
               },
               {
                   "houseHold": 2,
-                  "limit": 75600
+                  "limit": 86400
               },
               {
                   "houseHold": 3,
-                  "limit": 85050
+                  "limit": 97200
               },
             {
               "houseHold": 4,
-              "limit": 94500
+              "limit": 108000
             },
               {
                   "houseHold": 5,
@@ -348,45 +348,45 @@
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 76050 
+                  "limit": 84530 
               },
               {
                   "houseHold": 2,
-                  "limit": 86950 
+                  "limit": 96600 
               },
               {
                   "houseHold": 3,
-                  "limit": 97800 
+                  "limit": 108670 
               },
             {
               "houseHold": 4,
-              "limit": 108700
+              "limit": 120630
             },
               {
                   "houseHold": 5,
-                  "limit": 117350
+                  "limit": 130290
               }
           ],
           "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 79400 
+                  "limit": 88200
               },
               {
                   "houseHold": 2,
-                  "limit": 90700 
+                  "limit": 100800
               },
               {
                   "houseHold": 3,
-                  "limit": 102050 
+                  "limit": 113400 
               },
             {
               "houseHold": 4,
-              "limit": 133400
+              "limit": 125880
             },
               {
                   "houseHold": 5,
-                  "limit": 122450
+                  "limit": 135960
               }
           ]
       },
@@ -397,45 +397,45 @@
           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 44460 
+                  "limit": 49020 
               },
               {
                   "houseHold": 2,
-                  "limit": 50820 
+                  "limit": 55980 
               },
               {
                   "houseHold": 3,
-                  "limit": 57180 
+                  "limit": 63000 
               },
             {
               "houseHold": 4,
-              "limit": 63480
+              "limit": 69960
             },
               {
                   "houseHold": 5,
-                  "limit": 68580
+                  "limit": 75600
               }
           ],
           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 55950 
+                  "limit": 62600 
               },
               {
                   "houseHold": 2,
-                  "limit": 63950 
+                  "limit": 71550 
               },
               {
                   "houseHold": 3,
-                  "limit": 71950 
+                  "limit": 80500 
               },
             {
               "houseHold": 4,
-              "limit": 79900
+              "limit": 89400
             },
               {
                   "houseHold": 5,
-                  "limit": 89300
+                  "limit": 96600
               }
           ],
           "percentage_100": [
@@ -453,55 +453,55 @@
               },
             {
               "houseHold": 4,
-              "limit": 105800
+              "limit": 116600
             },
               {
                   "houseHold": 5,
-                  "limit": 114264
+                  "limit": 125928
               }
           ],
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 85150 
+                  "limit": 93960 
               },
               {
                   "houseHold": 2,
-                  "limit": 97350 
+                  "limit": 107290 
               },
               {
                   "houseHold": 3,
-                  "limit": 109500 
+                  "limit": 120750 
               },
             {
               "houseHold": 4,
-              "limit": 121650
+              "limit": 134090
             },
               {
                   "houseHold": 5,
-                  "limit": 131400
+                  "limit": 144900
               }
           ],
            "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 88850 
+                  "limit": 98040 
               },
               {
                   "houseHold": 2,
-                  "limit": 101600 
+                  "limit": 111960 
               },
               {
                   "houseHold": 3,
-                  "limit": 114250 
+                  "limit": 126000 
               },
             {
               "houseHold": 4,
-              "limit": 126950
+              "limit": 139920
             },
               {
                   "houseHold": 5,
-                  "limit": 137100
+                  "limit": 151200
               }
           ]
       },
@@ -509,114 +509,114 @@
           "towns": [
               "Hopkinton", "Westerly"
           ],
-            "percentage_60": [
+           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 39420
+                  "limit": 44100
               },
               {
                   "houseHold": 2,
-                  "limit": 45060
+                  "limit": 50400
               },
               {
                   "houseHold": 3,
-                  "limit": 50700
-              },
-              {
-                "houseHold": 4,
-                "limit": 56280
-              },
-              {
-                  "houseHold": 5,
-                  "limit":60840
-              }
-          ],
-          "percentage_80": [
-              {
-                  "houseHold": 1,
-                  "limit": 52550
-              },
-              {
-                  "houseHold": 2,
-                  "limit": 60050
-              },
-              {
-                  "houseHold": 3,
-                  "limit": 67550
+                  "limit": 56700
               },
             {
               "houseHold": 4,
-              "limit": 75050
+              "limit": 62940
             },
               {
                   "houseHold": 5,
-                  "limit": 81100
+                  "limit": 67980
+              }
+          ],
+           "percentage_80": [
+              {
+                  "houseHold": 1,
+                  "limit": 58750
+              },
+              {
+                  "houseHold": 2,
+                  "limit": 67150
+              },
+              {
+                  "houseHold": 3,
+                  "limit": 75550
+              },
+            {
+              "houseHold": 4,
+              "limit": 83900
+            },
+              {
+                  "houseHold": 5,
+                  "limit": 90650
               }
           ],
           "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 66150   
+                  "limit": 75600   
               },
               {
                   "houseHold": 2,
-                  "limit": 75600
+                  "limit": 86400
               },
               {
                   "houseHold": 3,
-                  "limit": 85050
+                  "limit": 97200
               },
             {
               "houseHold": 4,
-              "limit": 94500
+              "limit": 108000
             },
               {
                   "houseHold": 5,
                   "limit": 102050
               }
           ],
-           "percentage_115": [
+          "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 76050 
+                  "limit": 84530 
               },
               {
                   "houseHold": 2,
-                  "limit": 86950 
+                  "limit": 96600 
               },
               {
                   "houseHold": 3,
-                  "limit": 97800 
+                  "limit": 108670 
               },
             {
               "houseHold": 4,
-              "limit": 108700
+              "limit": 120630
             },
               {
                   "houseHold": 5,
-                  "limit": 117350
+                  "limit": 130290
               }
           ],
-           "percentage_120": [
+          "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 79400 
+                  "limit": 88200
               },
               {
                   "houseHold": 2,
-                  "limit": 90700 
+                  "limit": 100800
               },
               {
                   "houseHold": 3,
-                  "limit": 102050 
+                  "limit": 113400 
               },
             {
               "houseHold": 4,
-              "limit": 133400
+              "limit": 125880
             },
               {
                   "houseHold": 5,
-                  "limit": 112100
+                  "limit": 135960
               }
           ]
       },
@@ -627,63 +627,63 @@
           "percentage_60": [
               {
                   "houseHold": 1,
-                  "limit": 36360 
+                  "limit": 40620 
               },
               {
                   "houseHold": 2,
-                  "limit": 41520 
+                  "limit": 46440 
               },
               {
                   "houseHold": 3,
-                  "limit": 46740 
+                  "limit": 52260 
               },
             {
               "houseHold": 4,
-              "limit": 51900
+              "limit": 58020
             },
               {
                   "houseHold": 5,
-                  "limit": 56100
+                  "limit": 62700
               }
           ],
           "percentage_80": [
               {
                   "houseHold": 1,
-                  "limit": 48450 
+                  "limit": 54150 
               },
               {
                   "houseHold": 2,
-                  "limit": 55400 
+                  "limit": 61900 
               },
               {
                   "houseHold": 3,
-                  "limit": 62300 
+                  "limit": 69650 
               },
             {
               "houseHold": 4,
-              "limit": 69200
+              "limit": 77350
             },
               {
                   "houseHold": 5,
-                  "limit": 74750
+                  "limit": 83550
               }
           ],
          "percentage_100": [
               {
                   "houseHold": 1,
-                  "limit": 60550 
+                  "limit": 68320 
               },
               {
                   "houseHold": 2,
-                  "limit": 69200 
+                  "limit": 78080 
               },
               {
                   "houseHold": 3,
-                  "limit": 77850 
+                  "limit": 87840 
               },
           {
             "houseHold": 4,
-            "limit": 86500
+            "limit": 97600
           },
               {
                   "houseHold": 5,
@@ -693,45 +693,45 @@
           "percentage_115": [
               {
                   "houseHold": 1,
-                  "limit": 69650 
+                  "limit": 77860 
               },
               {
                   "houseHold": 2,
-                  "limit": 79600 
+                  "limit": 89010 
               },
               {
                   "houseHold": 3,
-                  "limit": 89550 
+                  "limit": 100160 
               },
             {
               "houseHold": 4,
-              "limit": 99500
+              "limit": 111200
             },
               {
                   "houseHold": 5,
-                  "limit": 107500
+                  "limit": 120170
               }
           ],
          "percentage_120": [
               {
                   "houseHold": 1,
-                  "limit": 72650 
+                  "limit": 81240 
               },
               {
                   "houseHold": 2,
-                  "limit": 83050 
+                  "limit": 92880 
               },
               {
                   "houseHold": 3,
-                  "limit": 93400 
+                  "limit": 104520 
               },
           {
             "houseHold": 4,
-            "limit": 103800
+            "limit": 116040
           },
               {
                   "houseHold": 5,
-                  "limit": 112100
+                  "limit": 125400
               }
           ]
       }
